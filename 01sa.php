@@ -35,12 +35,12 @@
 
   //source:https://www.youtube.com/watch?v=AKKkS4EYSDo&t=3s
 
-  $people = array('Trinidad', 'Kiram');
+  $people = array('Trinidad', 'Rodriguez', 'Kiram');
   print_r($people);
   echo'<br>';
   echo'<br>';
 
-  $element = array(0,1);
+  $element = array(0,2);
   echo count($element);
   echo'<br>';
   echo'<br>';
